@@ -1,0 +1,9 @@
+﻿  tutorial07.cpp
+C:\GLP\ergasthrio3\tutorial07.cpp(817,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\ergasthrio3\tutorial07.cpp(823,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\ergasthrio3\tutorial07.cpp(828,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\ergasthrio3\tutorial07.cpp(833,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GLP\ergasthrio3\tutorial07.cpp(840,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GLP\ergasthrio3\tutorial07.cpp(846,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GLP\ergasthrio3\tutorial07.cpp(852,21): warning C4305: '-=': truncation from 'double' to 'float'
+  ergasthrio3.vcxproj -> C:\GLP\ergasthrio3\Debug\ergasthrio3.exe
